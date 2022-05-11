@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OSharpe
-- 👀 I’m interested in ... Music, Animation, Drawing, Finances, Electricity, Electronics, Tech and now Coding
+- 👀 I’m interested in ... Music, Writing Rap Lyrics  Anime, Drawing, Finances, Electricity, Electronics, Puzzle Solving, Tech and now Coding
 - 🌱 I’m currently learning ...Python3
 - 💞️ I’m looking to collaborate on ... Any endeavor where I can increase my (beginner's) skill & pick up more
 - 📫 How to reach me ... osharpe001@gmail.com
