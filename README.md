@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @OSharpe
+- 👋 Hi, I’m @Omari Sharpe
 - 👀 I’m interested in ... Programming, Puzzle Solving, Electricity & Electronics, Technology, Finances, Biking, Wood-Working, Music, Anime and Drawing
-- 🌱 I’m currently building my portfolio
+- 🌱 I’m currently enrolled in PerScholas' Web Developer Bootcamp!
 - 💞️ I’m looking to collaborate on ... Any endeavor where I can increase my skills & pick up more
 - 📫 How to reach me ... osharpe001@gmail.com
 
