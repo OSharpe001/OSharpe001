@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omari Sharpe
 - 👀 I’m interested in ... Programming, Puzzle Solving, Electricity & Electronics, Technology, Finances, Biking, Wood-Working, Music, Anime and Drawing
-- 🌱 I’m currently learning DevOps via Terraform! ❤️
+- 🌱 I’m currently learning DevOps via Terraform/Open Tofu and GCP! ❤️
 - 💞️ I’m looking to collaborate on nothing at the moment. Show me something tantalizing! 😁
 - 📫 How to reach me ... osharpe001@gmail.com | https://www.linkedin.com/in/omarisharpe/ | https://osharpesportfolio.netlify.app
 
