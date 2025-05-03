@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omari Sharpe
 - 👀 I’m interested in ... Programming, Puzzle Solving, Electricity & Electronics, Technology, Finances, Biking, Wood-Working, Music, Anime and Drawing
-- 🌱 I’m currently refactoring and completing older projects, starting a Youtube channel.
+- 🌱 I’m currently starting a Youtube channel, refactoring and completing older projects.
 - 💞️ I’m looking to collaborate on anything and everything (except AI 🙄). Show me something tantalizing! 😁
 - 📫 How to reach me ... osharpe001@gmail.com | https://www.linkedin.com/in/omarisharpe/ | https://osharpesportfolio.netlify.app
 
