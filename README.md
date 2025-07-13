@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Omari Sharpe
 - 👀 I’m interested in ... Programming, Puzzle Solving, Electricity & Electronics, Technology, Finances, Biking, Wood-Working, Music, Anime and Drawing
-- 🌱 I’m currently working at UtilityAPI as a Software Engineering Intern!
+- 🌱 I’m currently working at UtilityAPI as a Software Engineering Intern! 🥳
 - 💞️ I’m looking to collaborate on anything and everything (except AI 🙄). Show me something tantalizing! 😁
 - 📫 How to reach me ... osharpe001@gmail.com | https://www.linkedin.com/in/omarisharpe/ | https://osharpesportfolio.netlify.app | https://www.youtube.com/@perpetualtechnoob
 
